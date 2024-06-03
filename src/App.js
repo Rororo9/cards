@@ -1,8 +1,8 @@
 import './App.css';
-import CardTitle from "./components/CardTitle";
-import SpecialFileTreatment from "./components/SpecialFileTreatment";
-import "bootstrap/dist/css/bootstrap.min.css";
-import cat from './cat.jpg';
+import CardTitle from './components/CardTitle';
+import SpecialFileTreatment from './components/SpecialFileTreatment';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import cat from './img/cat.jpg';
 
 const App = () => {
   return (
